@@ -1,0 +1,18 @@
+Database Experience
+
+Assuntos abordados:
+
+Introdução ao Desenvolvimento Moderno de Software
+Introdução a Banco de Dados
+Sistemas de Gerenciamento de Banco de Dados
+Modelagem de Dados para Banco de Dados
+Arquitetura de Banco de Dados
+Fundamentos de Modelagem
+Modelo Entidade e Relacionamento
+Modelo Entidade e Relacionamento Estendido
+Modelo Relacional e Mapeamento Relacional
+Passos com SQL
+Explorando Queries com SQL
+Criando Queries com Funções e Cláusulas de Agrupamento
+Agrupamentos Registros e Tabelas com Join Statement
+Introdução a MongoDB e Banco de Dados NoSQL 
